@@ -1,0 +1,186 @@
+Solutia numarul 1
+0: 5 4 rosu 
+1: 2 2 galben 
+2: 3 0 
+3: 7 3 albastru 
+4: 1 0 
+5: 4 3 rosu 
+
+0: 5 5 apa vida 
+1: 2 1 galben 
+2: 3 0 
+3: 7 3 albastru 
+4: 1 0 
+5: 4 3 rosu 
+
+0: 5 5 apa vida 
+1: 2 2 verde 
+2: 3 0 
+3: 7 2 albastru 
+4: 1 0 
+5: 4 3 rosu 
+
+0: 5 5 apa vida 
+1: 2 2 verde 
+2: 3 0 
+3: 7 1 albastru 
+4: 1 0 
+5: 4 4 mov 
+
+0: 5 0 
+1: 2 2 verde 
+2: 3 0 
+3: 7 6 apa vida 
+4: 1 0 
+5: 4 4 mov 
+
+0: 5 0 
+1: 2 2 verde 
+2: 3 0 
+3: 7 7 apa vida 
+4: 1 0 
+5: 4 3 mov 
+ 
+################# 
+
+
+Solutia numarul 2
+0: 5 4 rosu 
+1: 2 2 galben 
+2: 3 0 
+3: 7 3 albastru 
+4: 1 0 
+5: 4 3 rosu 
+
+0: 5 5 apa vida 
+1: 2 1 galben 
+2: 3 0 
+3: 7 3 albastru 
+4: 1 0 
+5: 4 3 rosu 
+
+0: 5 5 apa vida 
+1: 2 1 galben 
+2: 3 0 
+3: 7 2 albastru 
+4: 1 0 
+5: 4 4 mov 
+
+0: 5 5 apa vida 
+1: 2 2 verde 
+2: 3 0 
+3: 7 1 albastru 
+4: 1 0 
+5: 4 4 mov 
+
+0: 5 0 
+1: 2 2 verde 
+2: 3 0 
+3: 7 6 apa vida 
+4: 1 0 
+5: 4 4 mov 
+
+0: 5 0 
+1: 2 2 verde 
+2: 3 0 
+3: 7 7 apa vida 
+4: 1 0 
+5: 4 3 mov 
+ 
+################# 
+
+
+Solutia numarul 3
+0: 5 4 rosu 
+1: 2 2 galben 
+2: 3 0 
+3: 7 3 albastru 
+4: 1 0 
+5: 4 3 rosu 
+
+0: 5 4 rosu 
+1: 2 1 galben 
+2: 3 0 
+3: 7 3 albastru 
+4: 1 0 
+5: 4 4 apa vida 
+
+0: 5 5 mov 
+1: 2 1 galben 
+2: 3 0 
+3: 7 2 albastru 
+4: 1 0 
+5: 4 4 apa vida 
+
+0: 5 5 mov 
+1: 2 2 verde 
+2: 3 0 
+3: 7 1 albastru 
+4: 1 0 
+5: 4 4 apa vida 
+
+0: 5 5 mov 
+1: 2 2 verde 
+2: 3 0 
+3: 7 5 apa vida 
+4: 1 0 
+5: 4 0 
+
+0: 5 3 mov 
+1: 2 2 verde 
+2: 3 0 
+3: 7 7 apa vida 
+4: 1 0 
+5: 4 0 
+ 
+################# 
+
+
+Solutia numarul 4
+0: 5 4 rosu 
+1: 2 2 galben 
+2: 3 0 
+3: 7 3 albastru 
+4: 1 0 
+5: 4 3 rosu 
+
+0: 5 4 rosu 
+1: 2 1 galben 
+2: 3 0 
+3: 7 3 albastru 
+4: 1 0 
+5: 4 4 apa vida 
+
+0: 5 4 rosu 
+1: 2 2 verde 
+2: 3 0 
+3: 7 2 albastru 
+4: 1 0 
+5: 4 4 apa vida 
+
+0: 5 5 mov 
+1: 2 2 verde 
+2: 3 0 
+3: 7 1 albastru 
+4: 1 0 
+5: 4 4 apa vida 
+
+0: 5 5 mov 
+1: 2 2 verde 
+2: 3 0 
+3: 7 5 apa vida 
+4: 1 0 
+5: 4 0 
+
+0: 5 3 mov 
+1: 2 2 verde 
+2: 3 0 
+3: 7 7 apa vida 
+4: 1 0 
+5: 4 0 
+ 
+################# 
+
+
+Programul a rulat 234 ms
+svmem(total=7802241024, available=3494494208, percent=55.2, used=4307746816, free=3494494208)
